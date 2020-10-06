@@ -59,7 +59,7 @@
         <nav id="navbar_top" class="navbar pb-0 navbar-expand-lg navbar-light">
             <div class="navbar_top_logo">
                 <a class="navbar-brand" href="index.php">
-                    <img src="./images/logo/logo.png" width="130px" alt="logo" class="img-fluid" loading="lazy">
+                    <img src="./images/logo/logo.png" alt="logo" class="img-fluid header_main_logo" loading="lazy">
                 </a>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

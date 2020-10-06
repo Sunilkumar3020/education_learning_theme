@@ -61,10 +61,11 @@ $(document).ready(function () {
   $(".owl-carousel").owlCarousel({
     // items: 3,
     loop: true,
-    margin: 30,
+    margin: 10,
     nav: true,
     autoplay: true,
-    autoplayTimeout: 4000,
+    autoplayTimeout: 14000,
+    autoplayHoverPause: true,
     responsive: {
       0: {
         items: 1,
